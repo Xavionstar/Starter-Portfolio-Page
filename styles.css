@@ -1,0 +1,31 @@
+header{
+    background-color: darkgrey;
+    color: darkgreen;
+    display: flex;
+    align-items: center;
+
+}
+header h1{
+    background-color: darkgreen;
+    color: black;
+    display: inline;
+    margin-left: 40px;
+}
+header ul{
+    color: darkgreen;
+    font-style: underline;
+    display: flex;
+    margin-left: auto;
+    list-style: none;
+    margin-right: 10em;
+}
+header ul li{
+    
+    font-size: larger;
+    margin-right: 4em;
+    text-decoration-line:underline;
+}
+body{
+
+    color: blue;
+}
