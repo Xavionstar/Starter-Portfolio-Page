@@ -1,4 +1,4 @@
-header{
+ header{
     background-color: darkgrey;
     color: darkgreen;
     display: flex;
@@ -79,6 +79,11 @@ body{
     font-size: 40px;
     font-weight: bold;
 }
+#hikeTitle{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
 .work-boxes-small{
     border: 5px solid cornflowerblue;
     margin-left: 0em;
@@ -88,7 +93,7 @@ body{
     flex-basis: calc(50% - 1em - 10px);
     background-color: palegreen;
 }
-.contacts{
+ .contacts{
     color: darkgreen;
     font-style: underline;
     display: flex;
